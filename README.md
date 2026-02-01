@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋 I'm Rikin!
 
-<!--
-**rikinhuh/rikinhuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Cybersecurity learner passionate about securing web applications and building real-world projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on
+- Web Security & Defensive Cybersecurity
+- Practicing Python for automation & security
+
+
+---
+
+### 🤔 I’m looking for help with
+- Learning advanced cybersecurity concepts
+- Real-world pentesting practice & labs
+- Building strong cybersecurity projects 
+
+---
+
+### 💬 Ask me about
+- Cybersecurity 
+- Web security / OWASP
+- Python programming
+- Linux
+
+
+### ⚡ Fun fact:
+I love story-based games like *Detroit: Become Human* 🎮 and I’m also exploring cybersecurity 🔥
+
+⭐ Thanks for visiting my profile!
